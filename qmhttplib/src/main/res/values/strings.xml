@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QMHttpLib</string>
+    <string name="check_network_connection">Проверьте интернет соединение...</string>
+</resources>
