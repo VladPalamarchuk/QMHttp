@@ -1,3 +1,1 @@
 include ':app', ':qmhttplib'
-
-rootProject.name = 'qm-http'
