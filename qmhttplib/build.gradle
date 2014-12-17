@@ -1,5 +1,8 @@
 apply plugin: 'com.android.library'
 
+version = '0.0.1'
+group = 'vp.kiev'
+
 android {
     compileSdkVersion 21
     buildToolsVersion "21.1.2"
