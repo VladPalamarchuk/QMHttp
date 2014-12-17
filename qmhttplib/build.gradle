@@ -1,7 +1,10 @@
-apply plugin: 'com.android.library'
-
 version = '0.0.1'
 group = 'vp.kiev'
+
+
+apply plugin: 'com.android.library'
+
+
 
 android {
     compileSdkVersion 21
